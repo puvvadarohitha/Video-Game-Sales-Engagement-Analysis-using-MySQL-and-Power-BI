@@ -38,7 +38,7 @@ using MySQL and Power BI.
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| Video Game.sql | Complete SQL script |
+| Video_Game_Analysis.sql | Complete SQL script |
 | screenshots/ | Dashboard page screenshots |
 
 ## 👩‍💻 Author
