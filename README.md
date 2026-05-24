@@ -1,5 +1,9 @@
 # 🎮 Video Game Sales & Engagement Analysis
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 ## 📌 Project Overview
 Analysis of 11,493 video game records to uncover global sales trends,
 platform performance, publisher rankings, and engagement metrics
