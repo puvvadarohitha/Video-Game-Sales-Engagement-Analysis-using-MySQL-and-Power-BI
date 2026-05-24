@@ -10,6 +10,14 @@ using MySQL and Power BI.
 - **Power BI** — 3-page interactive dashboard
 - **Dataset** — vgsales_cleaned.csv + games_cleaned.csv
 
+- ## 🧹 Data Cleaning Steps
+- Fixed genres list format ['Action'] → Action
+- Filled 938 missing plays with median
+- Filled 451 missing backlogs with median
+- Fixed 165 missing years in vgsales
+- Rebuilt name_canon for better JOIN matching
+- Added primary_genre column
+
 ## 📊 Dashboard Pages
 ### Page 1 — Overview & Ratings
 ![Overview](Screenshots/Overview.png)
