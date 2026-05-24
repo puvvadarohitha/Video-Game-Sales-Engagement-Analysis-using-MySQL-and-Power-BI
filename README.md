@@ -47,7 +47,7 @@ using MySQL and Power BI.
 | File | Description |
 |------|-------------|
 | Video_Game_Analysis.sql | Complete SQL script |
-| screenshots/ | Dashboard page screenshots |
+| Screenshots/ | Dashboard page screenshots |
 
 ## 👩‍💻 Author
 **Puvvada Rohitha**
